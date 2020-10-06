@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+​
+<body class = "container">
+    <header class="p-3 mb-2 bg-dark text-white">
+        <h2>
+            <p class="font-weight-bold text-center">Weather Dashboard</p>
+        </h2>
+    </header>
+
+    ​ <div class="row">
+
+        <div class="container col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <input id="query" class="d-inline" type="text" placeholder='Enter a city'></input>
+                    <button id="search" class=" d-inline btn btn-info"><i class="fa fa-search"></i></button>
+                    <div id="searchCityResults">City List</div>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Toronto</li>
+                  <li class="list-group-item">Manama</li>
+                  <li class="list-group-item">Cork</li>
+                  <li class="list-group-item">Buenos Aires</li>
+                  <li class="list-group-item">Blackburn</li>
+                </ul>
+              </div>
+        </div>
+        <!-- <div class="col-md-2"></div> -->
+        <div class="col-md-8">
+
+            <div class="card">
+                <div class="card-body">
+
+                    <div id="weatherResults" class="d-inline-block"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    ​
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="script.js"></script>
+</body>
+​
+
+</html>
