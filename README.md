@@ -10,7 +10,7 @@
 The application can be accessed via the following link: https://marissarrwilson.github.io/Weather-Dashboard/ .
 
 # Screenshot
-
+![Screenshot of deployed application](Screenshot1.png)
 
 ## Credits
 Individual work by me, Marissa Wilson, with the help of...
