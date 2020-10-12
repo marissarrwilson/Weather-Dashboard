@@ -7,7 +7,7 @@
 ## Usage
 * Type in a city's name to view its current weather.
 
-The application can be accessed via the following link: 
+The application can be accessed via the following link: https://marissarrwilson.github.io/Weather-Dashboard/ .
 
 # Screenshot
 
