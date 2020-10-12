@@ -1,13 +1,16 @@
 # Weather-Dashboard
 
-## What It Is:
-* 
+## Description
+* This application is a weather dashboard that allows the user to search for a city and view its current weather along with the forecast predictions for the next 5 days.
+* This app was made using HTML, CSS, JavaScript & an API to retrieve specific information on the weather (open weather map).
 
-## Method
-* This app was made using HTML, CSS, JavaScript & an API to retrieve specific information on the weather 
+## Usage
+* Type in a city's name to view its current weather.
 
-## How to Use
-* Type in a city's name to view its current weather
+The application can be accessed via the following link: 
+
+# Screenshot
+
 
 ## Credits
 Individual work by me, Marissa Wilson, with the help of...
@@ -16,7 +19,7 @@ Individual work by me, Marissa Wilson, with the help of...
 * Helpful links:
     - https://openweathermap.org/api/weather-map-2
     - https://github.com/axios/axios
-
+    - https://github.com/buche/leaflet-openweathermap
 
 ## License
 Copyright (c) [2020] [Marissa Wilson]
