@@ -14,6 +14,9 @@ Individual work by me, Marissa Wilson, with the help of...
 * Instructors Fil and Daniel
 * Study group on Slack
 * Helpful links:
+    - https://openweathermap.org/api/weather-map-2
+    - https://github.com/axios/axios
+
 
 ## License
 Copyright (c) [2020] [Marissa Wilson]
